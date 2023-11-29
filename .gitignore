@@ -1,1 +1,3 @@
-**/*.log, .DS_Store and .ipynb_checkpoints
+**/*.log
+.DS_Store
+.ipynb_checkpoints
